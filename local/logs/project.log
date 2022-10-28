@@ -1,0 +1,1563 @@
+2022-10-27T05:43:07.299Z - log: [Package] menu@1.0.0 enable
+2022-10-27T05:43:07.302Z - log: [Package] profile@1.0.0 enable
+2022-10-27T05:43:07.311Z - log: [Package] project@1.0.2 enable
+2022-10-27T05:43:07.316Z - log: [Package] messages@1.0.0 enable
+2022-10-27T05:43:07.320Z - log: [Package] program@1.0.0 enable
+2022-10-27T05:43:07.325Z - log: [Package] tester@1.0.0 enable
+2022-10-27T05:43:07.331Z - log: [Package] preferences@1.0.0 enable
+2022-10-27T05:43:07.960Z - log: Setup mods mgr.: 288.805ms
+2022-10-27T05:43:07.962Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-10-27T05:43:07.968Z - verbose: [Engine] QuickCompile engine (578ms)
+2022-10-27T05:43:07.971Z - log: [Package] engine@1.0.6 enable
+2022-10-27T05:43:08.668Z - log: [Package] programming@1.0.0 enable
+2022-10-27T05:43:08.952Z - log: [Package] device@1.0.1 enable
+2022-10-27T05:43:08.978Z - log: [Package] ui-kit@1.0.1 enable
+2022-10-27T05:43:09.002Z - log: [Package] engine-extends@1.0.0 enable
+2022-10-27T05:43:09.066Z - log: [Package] asset-db@1.0.0 enable
+2022-10-27T05:43:09.106Z - log: [Package] scene@1.0.0 enable
+2022-10-27T05:43:09.283Z - log: [Package] server@1.0.0 enable
+2022-10-27T05:43:09.312Z - log: [Package] utils@1.0.0 enable
+2022-10-27T05:43:13.279Z - log: [Package] preview@1.0.1 enable
+2022-10-27T05:43:13.311Z - log: [Package] animator@1.0.0 enable
+2022-10-27T05:43:14.053Z - log: Profile changed: builder (log.level: 4)
+2022-10-27T05:43:14.061Z - log: [Package] builder@1.3.2 enable
+2022-10-27T05:43:14.095Z - log: [Package] shortcuts@1.0.1 enable
+2022-10-27T05:43:14.128Z - log: [Package] animation-graph@1.0.0 enable
+2022-10-27T05:43:14.154Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-10-27T05:43:14.179Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-10-27T05:43:14.211Z - log: [Package] about@1.0.0 enable
+2022-10-27T05:43:14.244Z - log: [Package] assets@1.0.0 enable
+2022-10-27T05:43:14.276Z - log: [Package] console@1.0.0 enable
+2022-10-27T05:43:14.462Z - log: [Package] extension@3.0.16 enable
+2022-10-27T05:43:14.495Z - log: [Package] hierarchy@1.0.0 enable
+2022-10-27T05:43:14.530Z - log: [Package] inspector@1.0.0 enable
+2022-10-27T05:43:14.563Z - log: [Package] lightmap@1.0.4 enable
+2022-10-27T05:43:14.613Z - log: [Package] node-library@1.0.1 enable
+2022-10-27T05:43:14.637Z - log: [Package] package-asset@1.0.0 enable
+2022-10-27T05:43:14.673Z - log: [Package] process@1.0.0 enable
+2022-10-27T05:43:14.704Z - log: [Package] reference-image@1.0.0 enable
+2022-10-27T05:43:14.730Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-10-27T05:43:14.758Z - log: [Package] android@1.0.0 enable
+2022-10-27T05:43:14.787Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-10-27T05:43:14.810Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-10-27T05:43:14.834Z - log: [Package] cocos-play@1.0.0 enable
+2022-10-27T05:43:14.860Z - log: [Package] huawei-agc@1.0.0 enable
+2022-10-27T05:43:14.882Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-10-27T05:43:15.262Z - log: [Package] ios@1.0.0 enable
+2022-10-27T05:43:15.266Z - verbose: [AssetDB] Require engine code (1099ms)
+2022-10-27T05:43:15.287Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-10-27T05:43:15.309Z - log: [Package] link-sure@1.0.0 enable
+2022-10-27T05:43:15.338Z - log: [Package] linux@1.0.0 enable
+2022-10-27T05:43:15.365Z - log: [Package] mac@1.0.0 enable
+2022-10-27T05:43:15.490Z - log: [Package] native@1.0.0 enable
+2022-10-27T05:43:15.513Z - log: [Package] ohos@1.0.0 enable
+2022-10-27T05:43:15.541Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-10-27T05:43:15.565Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-10-27T05:43:15.592Z - log: [Package] qtt@1.0.0 enable
+2022-10-27T05:43:15.618Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-10-27T05:43:15.654Z - log: [Package] web-desktop@1.0.0 enable
+2022-10-27T05:43:15.690Z - log: [Package] web-mobile@1.0.0 enable
+2022-10-27T05:43:15.729Z - log: [Package] wechatgame@1.0.1 enable
+2022-10-27T05:43:15.753Z - log: [Package] windows@1.0.0 enable
+2022-10-27T05:43:15.781Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-10-27T05:43:16.051Z - log: [Package] cocos-service@3.0.3 enable
+2022-10-27T05:43:16.090Z - log: [Package] importer@1.0.0 enable
+2022-10-27T05:43:16.386Z - log: [Im-plugin] Check im-plugin version.
+2022-10-27T05:43:16.397Z - log: [Package] im-plugin@3.0.8 enable
+2022-10-27T05:43:18.478Z - log: [Im-plugin] No online info of im-plugin.
+2022-10-27T05:43:19.022Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)  
+at Object.oldDataWarning (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/node.js:381:15)  
+at browserslist (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/index.js:439:7)  
+at resolveTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:168:20)  
+at getTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:213:27)  
+at getLocalTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:227:48)  
+at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:288:15
+2022-10-27T05:43:22.428Z - verbose: [Scene] Require engine code (1ms)
+2022-10-27T05:43:22.428Z - verbose: [Scene] Startup engine (0ms)
+2022-10-27T05:43:22.453Z - log: [Scene] Cocos Creator v3.5.0
+2022-10-27T05:43:22.674Z - verbose: [Scene] Open engine (246ms)
+2022-10-27T05:43:22.674Z - verbose: [Scene] Configure engine (0ms)
+2022-10-27T05:43:22.499Z - info: [Scene] Forward render pipeline initialized.
+2022-10-27T06:21:25.484Z - log: [Scene] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at SceneFacadeManager.queryNodeDump (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13690)
+2022-10-27T06:21:25.486Z - error: [Window] Cannot use 'in' operator to search for 'position' in nullTypeError: Cannot use 'in' operator to search for 'position' in null
+    at <process:scene>
+    at SceneFacadeManager.queryNodeDump (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:13690)
+2022-10-27T07:33:20.886Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Did not expect a type annotation here. (16:41)
+
+  14 |             }
+  15 |             this.node.setScale(scale);
+> 16 |             this.node.getChildByName(name:" ")
+     |                                          ^
+  17 |             console.log('Mouse down');
+  18 |           }, this);
+  19 |     }.[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Did not expect a type annotation here. (16:41)
+
+  14 |             }
+  15 |             this.node.setScale(scale);
+> 16 |             this.node.getChildByName(name:" ")
+     |                                          ^
+  17 |             console.log('Mouse down');
+  18 |           }, this);
+  19 |     }.  
+|                                          ^  
+17 |             console.log('Mouse down');  
+18 |           }, this);  
+19 |     }.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T07:33:20.908Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Did not expect a type annotation here. (16:41)
+
+  14 |             }
+  15 |             this.node.setScale(scale);
+> 16 |             this.node.getChildByName(name:" ")
+     |                                          ^
+  17 |             console.log('Mouse down');
+  18 |           }, this);
+  19 |     }.[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Did not expect a type annotation here. (16:41)
+
+  14 |             }
+  15 |             this.node.setScale(scale);
+> 16 |             this.node.getChildByName(name:" ")
+     |                                          ^
+  17 |             console.log('Mouse down');
+  18 |           }, this);
+  19 |     }.  
+|                                          ^  
+17 |             console.log('Mouse down');  
+18 |           }, this);  
+19 |     }.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T07:33:20.909Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T07:33:20.911Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T07:33:20.914Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T07:50:46.190Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (19:10)
+
+  17 |             console.log(label.string = "1");
+  18 |             this.node.
+> 19 |           }, this);
+     |           ^
+  20 |     }
+  21 |
+  22 |     update(deltaTime: number) {.[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (19:10)
+
+  17 |             console.log(label.string = "1");
+  18 |             this.node.
+> 19 |           }, this);
+     |           ^
+  20 |     }
+  21 |
+  22 |     update(deltaTime: number) {.  
+|           ^  
+20 |     }  
+21 |  
+22 |     update(deltaTime: number) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T07:50:46.220Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (19:10)
+
+  17 |             console.log(label.string = "1");
+  18 |             this.node.
+> 19 |           }, this);
+     |           ^
+  20 |     }
+  21 |
+  22 |     update(deltaTime: number) {.[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (19:10)
+
+  17 |             console.log(label.string = "1");
+  18 |             this.node.
+> 19 |           }, this);
+     |           ^
+  20 |     }
+  21 |
+  22 |     update(deltaTime: number) {.  
+|           ^  
+20 |     }  
+21 |  
+22 |     update(deltaTime: number) {.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T07:50:46.237Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T07:50:46.238Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T07:50:46.242Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T07:50:51.895Z - error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-10-27T07:50:51.972Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1215:28)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-10-27T07:50:52.040Z - error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-10-27T07:50:52.042Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1215:28)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-10-27T07:50:52.195Z - error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-10-27T07:50:52.196Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1215:28)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-10-27T07:50:52.422Z - error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-10-27T07:50:52.425Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1215:28)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-10-27T08:22:27.069Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/18/18ba4d6ac2685645cd2056c357438a7b3fa11d60.js
+2022-10-27T08:22:28.107Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/18/18ba4d6ac2685645cd2056c357438a7b3fa11d60.js
+2022-10-27T08:22:28.723Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/18/18ba4d6ac2685645cd2056c357438a7b3fa11d60.js
+2022-10-27T08:22:29.179Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/18/18ba4d6ac2685645cd2056c357438a7b3fa11d60.js
+2022-10-27T08:23:09.283Z - warn: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.Error: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216555:27
+    at Array.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216568:40)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108466:25)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108696:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108741:5)
+2022-10-27T08:24:46.294Z - warn: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.Error: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216555:27
+    at Array.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216568:40)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108466:25)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108696:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108741:5)
+2022-10-27T09:47:54.179Z - warn: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.Error: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216555:27
+    at Array.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216568:40)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108466:25)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108696:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108741:5)
+2022-10-27T09:49:01.752Z - warn: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.Error: [Scene] Can not indicate the 'type' attribute for "cardFlip.text", which its default value is type of number.
+    at warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138772:10)
+    at warnID (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138991:3)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216555:27
+    at Array.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:216568:40)
+    at defineProp (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108466:25)
+    at declareProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108696:9)
+    at CCClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:108741:5)
+2022-10-27T10:08:10.947Z - error: [Window] [Vue warn]: Error in v-on handler (Promise/async): "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-10-27T10:08:10.947Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.addChange (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/editor-extensions/extensions/assets/dist/components/tree-node.ccc:1:4252)
+    at input (eval at createFunction (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:11628:14), <anonymous>:3:2904)
+    at invokeWithErrorHandling (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:1863:28)
+    at HTMLInputElement.invoker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:7541:27)
+2022-10-27T10:08:12.121Z - error: [Window] [Vue warn]: Error in v-on handler (Promise/async): "TypeError: Cannot read property 'value' of undefined"
+
+found in
+
+---> <TreeNode>
+       <Tree>
+         <Root>
+2022-10-27T10:08:12.121Z - error: [Window] Cannot read property 'value' of undefinedTypeError: Cannot read property 'value' of undefined
+    at VueComponent.addChange (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/editor-extensions/extensions/assets/dist/components/tree-node.ccc:1:4252)
+    at input (eval at createFunction (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:11628:14), <anonymous>:3:2904)
+    at invokeWithErrorHandling (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:1863:28)
+    at HTMLInputElement.invoker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:2188:16)
+    at HTMLInputElement.<anonymous> (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/vue/dist/vue.js:7541:27)
+2022-10-27T10:29:51.740Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame = 
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame = 
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".  
+|             ^  
+23 |             else{  
+24 |                 scale.x = 1;  
+25 |                 label.string="*".  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T10:29:51.759Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame = 
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame = 
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".  
+|             ^  
+23 |             else{  
+24 |                 scale.x = 1;  
+25 |                 label.string="*".  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T10:29:51.759Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:29:51.760Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:29:51.760Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:29:51.760Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:29:51.760Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:29:51.760Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:29:51.761Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:29:51.761Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:29:51.764Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:29:51.765Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:29:51.767Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:29:51.767Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:30:07.751Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Identifier directly after number. (20:35)
+
+  18 |                 scale.x = -1;
+  19 |                 let sp = this.node.getComponent(Sprite);
+> 20 |                 sp.spriteFrame = 11C
+     |                                    ^
+  21 |
+  22 |             }
+  23 |             else{.[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Identifier directly after number. (20:35)
+
+  18 |                 scale.x = -1;
+  19 |                 let sp = this.node.getComponent(Sprite);
+> 20 |                 sp.spriteFrame = 11C
+     |                                    ^
+  21 |
+  22 |             }
+  23 |             else{.  
+|                                    ^  
+21 |  
+22 |             }  
+23 |             else{.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T10:30:07.770Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Identifier directly after number. (20:35)
+
+  18 |                 scale.x = -1;
+  19 |                 let sp = this.node.getComponent(Sprite);
+> 20 |                 sp.spriteFrame = 11C
+     |                                    ^
+  21 |
+  22 |             }
+  23 |             else{.[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Identifier directly after number. (20:35)
+
+  18 |                 scale.x = -1;
+  19 |                 let sp = this.node.getComponent(Sprite);
+> 20 |                 sp.spriteFrame = 11C
+     |                                    ^
+  21 |
+  22 |             }
+  23 |             else{.  
+|                                    ^  
+21 |  
+22 |             }  
+23 |             else{.  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T10:30:07.769Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:30:07.769Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:30:07.769Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:30:07.769Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:30:07.769Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:30:07.770Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:30:07.770Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:30:07.770Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:30:07.772Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:30:07.772Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:30:07.772Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:30:07.773Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:55:33.810Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame.
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame.
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".  
+|             ^  
+23 |             else{  
+24 |                 scale.x = 1;  
+25 |                 label.string="*".  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T10:55:33.835Z - error: [Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame.
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".[Programming] Failed to load module file:///Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: SyntaxError: /file:/Users/chicmic/Projects/CocosCreator/cardFlip/assets/cardFlip.ts: Unexpected token (22:12)
+
+  20 |                 sp.spriteFrame.
+  21 |
+> 22 |             }
+     |             ^
+  23 |             else{
+  24 |                 scale.x = 1;
+  25 |                 label.string="*".  
+|             ^  
+23 |             else{  
+24 |                 scale.x = 1;  
+25 |                 label.string="*".  
+at Object.encode (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/node_modules/v-stacks/index.js:14:17)  
+at Logger._logHandler (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-worker/static/script.ccc:1:531)  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)  
+at Object.error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/programming/dist/packer-driver/packer-driver.ccc:1:14689)  
+at QuickPack._inspect (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:258:26)  
+at async QuickPack._inspectWithCache (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:166:30)  
+at async QuickPack._getOrCreateInspectRecord (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:134:13)  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-quick-pack/lib/quick-pack.js:219:35  
+at async /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-common/lib/launch-policy.js:9:30
+2022-10-27T10:55:33.834Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:55:33.835Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:55:33.835Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:55:33.835Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:55:33.835Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:55:33.835Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:55:33.836Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-27T10:55:33.836Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-27T10:55:33.843Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:55:33.844Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:55:33.845Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:55:33.846Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-27T10:55:35.854Z - error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-10-27T10:55:35.856Z - error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/chunks/6b/6b8f85b7feaee65395ce6b5e8080983e7f56d534.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1215:28)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
+2022-10-27T11:28:43.237Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/10/1003fb4fc9d30fb49cfa5f249f28714f4e2c9327.js
+2022-10-27T11:28:44.196Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/10/1003fb4fc9d30fb49cfa5f249f28714f4e2c9327.js
+2022-10-27T11:28:44.628Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/10/1003fb4fc9d30fb49cfa5f249f28714f4e2c9327.js
+2022-10-27T11:28:44.852Z - error: [Preview]Uncaught TypeError: Cannot set properties of null (setting 'string') in http://localhost:7456/scripting/x/chunks/10/1003fb4fc9d30fb49cfa5f249f28714f4e2c9327.js
+2022-10-27T13:23:52.374Z - warn: Metrics: no valid info
+2022-10-28T06:02:04.337Z - log: [Package] menu@1.0.0 enable
+2022-10-28T06:02:04.340Z - log: [Package] menu@1.0.0 enable
+2022-10-28T06:02:04.342Z - log: [Package] profile@1.0.0 enable
+2022-10-28T06:02:04.365Z - log: [Package] project@1.0.2 enable
+2022-10-28T06:02:04.370Z - log: [Package] messages@1.0.0 enable
+2022-10-28T06:02:04.376Z - log: [Package] program@1.0.0 enable
+2022-10-28T06:02:04.386Z - log: [Package] tester@1.0.0 enable
+2022-10-28T06:02:04.391Z - log: [Package] preferences@1.0.0 enable
+2022-10-28T06:02:04.342Z - log: [Package] profile@1.0.0 enable
+2022-10-28T06:02:04.363Z - log: [Package] project@1.0.2 enable
+2022-10-28T06:02:04.369Z - log: [Package] messages@1.0.0 enable
+2022-10-28T06:02:04.373Z - log: [Package] program@1.0.0 enable
+2022-10-28T06:02:04.381Z - log: [Package] tester@1.0.0 enable
+2022-10-28T06:02:04.387Z - log: [Package] preferences@1.0.0 enable
+2022-10-28T06:02:05.047Z - log: Setup mods mgr.: 307.452ms
+2022-10-28T06:02:05.047Z - log: Setup mods mgr.: 308.197ms
+2022-10-28T06:02:05.049Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-10-28T06:02:05.049Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-10-28T06:02:05.055Z - verbose: [Engine] QuickCompile engine (607ms)
+2022-10-28T06:02:05.057Z - verbose: [Engine] QuickCompile engine (609ms)
+2022-10-28T06:02:05.058Z - log: [Package] engine@1.0.6 enable
+2022-10-28T06:02:05.060Z - log: [Package] engine@1.0.6 enable
+2022-10-28T06:02:05.837Z - log: [Package] programming@1.0.0 enable
+2022-10-28T06:02:05.837Z - log: [Package] programming@1.0.0 enable
+2022-10-28T06:02:06.137Z - log: [Package] device@1.0.1 enable
+2022-10-28T06:02:06.137Z - log: [Package] device@1.0.1 enable
+2022-10-28T06:02:06.167Z - log: [Package] ui-kit@1.0.1 enable
+2022-10-28T06:02:06.168Z - log: [Package] ui-kit@1.0.1 enable
+2022-10-28T06:02:06.192Z - log: [Package] engine-extends@1.0.0 enable
+2022-10-28T06:02:06.192Z - log: [Package] engine-extends@1.0.0 enable
+2022-10-28T06:02:06.263Z - log: [Package] asset-db@1.0.0 enable
+2022-10-28T06:02:06.263Z - log: [Package] asset-db@1.0.0 enable
+2022-10-28T06:02:06.304Z - log: [Package] scene@1.0.0 enable
+2022-10-28T06:02:06.304Z - log: [Package] scene@1.0.0 enable
+2022-10-28T06:02:06.515Z - log: [Package] server@1.0.0 enable
+2022-10-28T06:02:06.515Z - log: [Package] server@1.0.0 enable
+2022-10-28T06:02:06.516Z - warn: Server: Port 7456 is occupied
+2022-10-28T06:02:06.516Z - warn: Server: Port 7456 is occupied
+2022-10-28T06:02:06.516Z - warn: Server: Port 7457 is occupied
+2022-10-28T06:02:06.548Z - log: [Package] utils@1.0.0 enable
+2022-10-28T06:02:06.554Z - log: [Package] utils@1.0.0 enable
+2022-10-28T06:02:10.579Z - log: [Package] preview@1.0.1 enable
+2022-10-28T06:02:10.580Z - log: [Package] preview@1.0.1 enable
+2022-10-28T06:02:10.613Z - log: [Package] animator@1.0.0 enable
+2022-10-28T06:02:10.614Z - log: [Package] animator@1.0.0 enable
+2022-10-28T06:02:11.529Z - log: [Package] builder@1.3.2 enable
+2022-10-28T06:02:11.561Z - log: [Package] builder@1.3.2 enable
+2022-10-28T06:02:11.563Z - log: [Package] shortcuts@1.0.1 enable
+2022-10-28T06:02:11.593Z - log: [Package] shortcuts@1.0.1 enable
+2022-10-28T06:02:11.596Z - log: [Package] animation-graph@1.0.0 enable
+2022-10-28T06:02:11.621Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-10-28T06:02:11.624Z - log: [Package] animation-graph@1.0.0 enable
+2022-10-28T06:02:11.646Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-10-28T06:02:11.651Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-10-28T06:02:11.673Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-10-28T06:02:11.676Z - log: [Package] about@1.0.0 enable
+2022-10-28T06:02:11.707Z - log: [Package] about@1.0.0 enable
+2022-10-28T06:02:11.709Z - log: [Package] assets@1.0.0 enable
+2022-10-28T06:02:11.739Z - log: [Package] assets@1.0.0 enable
+2022-10-28T06:02:11.743Z - log: [Package] console@1.0.0 enable
+2022-10-28T06:02:11.773Z - log: [Package] console@1.0.0 enable
+2022-10-28T06:02:11.937Z - log: [Package] extension@3.0.16 enable
+2022-10-28T06:02:11.937Z - log: [Package] extension@3.0.16 enable
+2022-10-28T06:02:11.970Z - log: [Package] hierarchy@1.0.0 enable
+2022-10-28T06:02:11.970Z - log: [Package] hierarchy@1.0.0 enable
+2022-10-28T06:02:12.003Z - log: [Package] inspector@1.0.0 enable
+2022-10-28T06:02:12.003Z - log: [Package] inspector@1.0.0 enable
+2022-10-28T06:02:12.037Z - log: [Package] lightmap@1.0.4 enable
+2022-10-28T06:02:12.037Z - log: [Package] lightmap@1.0.4 enable
+2022-10-28T06:02:12.087Z - log: [Package] node-library@1.0.1 enable
+2022-10-28T06:02:12.089Z - log: [Package] node-library@1.0.1 enable
+2022-10-28T06:02:12.113Z - log: [Package] package-asset@1.0.0 enable
+2022-10-28T06:02:12.113Z - log: [Package] package-asset@1.0.0 enable
+2022-10-28T06:02:12.146Z - log: [Package] process@1.0.0 enable
+2022-10-28T06:02:12.146Z - log: [Package] process@1.0.0 enable
+2022-10-28T06:02:12.179Z - log: [Package] reference-image@1.0.0 enable
+2022-10-28T06:02:12.179Z - log: [Package] reference-image@1.0.0 enable
+2022-10-28T06:02:12.203Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-10-28T06:02:12.203Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-10-28T06:02:12.228Z - log: [Package] android@1.0.0 enable
+2022-10-28T06:02:12.228Z - log: [Package] android@1.0.0 enable
+2022-10-28T06:02:12.254Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-10-28T06:02:12.254Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-10-28T06:02:12.277Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-10-28T06:02:12.278Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-10-28T06:02:12.301Z - log: [Package] cocos-play@1.0.0 enable
+2022-10-28T06:02:12.301Z - log: [Package] cocos-play@1.0.0 enable
+2022-10-28T06:02:12.326Z - log: [Package] huawei-agc@1.0.0 enable
+2022-10-28T06:02:12.326Z - log: [Package] huawei-agc@1.0.0 enable
+2022-10-28T06:02:12.352Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-10-28T06:02:12.353Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-10-28T06:02:13.146Z - log: [Package] ios@1.0.0 enable
+2022-10-28T06:02:13.149Z - log: [Package] ios@1.0.0 enable
+2022-10-28T06:02:13.171Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-10-28T06:02:13.174Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-10-28T06:02:13.195Z - log: [Package] link-sure@1.0.0 enable
+2022-10-28T06:02:13.197Z - log: [Package] link-sure@1.0.0 enable
+2022-10-28T06:02:13.222Z - log: [Package] linux@1.0.0 enable
+2022-10-28T06:02:13.223Z - log: [Package] linux@1.0.0 enable
+2022-10-28T06:02:13.246Z - log: [Package] mac@1.0.0 enable
+2022-10-28T06:02:13.252Z - log: [Package] mac@1.0.0 enable
+2022-10-28T06:02:13.368Z - log: [Package] native@1.0.0 enable
+2022-10-28T06:02:13.369Z - log: [Package] native@1.0.0 enable
+2022-10-28T06:02:13.372Z - verbose: [AssetDB] Require engine code (1995ms)
+2022-10-28T06:02:13.372Z - verbose: [AssetDB] Require engine code (1999ms)
+2022-10-28T06:02:13.394Z - log: [Package] ohos@1.0.0 enable
+2022-10-28T06:02:13.395Z - log: [Package] ohos@1.0.0 enable
+2022-10-28T06:02:13.420Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-10-28T06:02:13.421Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-10-28T06:02:13.443Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-10-28T06:02:13.444Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-10-28T06:02:13.469Z - log: [Package] qtt@1.0.0 enable
+2022-10-28T06:02:13.471Z - log: [Package] qtt@1.0.0 enable
+2022-10-28T06:02:13.495Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-10-28T06:02:13.496Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-10-28T06:02:13.531Z - log: [Package] web-desktop@1.0.0 enable
+2022-10-28T06:02:13.535Z - log: [Package] web-desktop@1.0.0 enable
+2022-10-28T06:02:13.567Z - log: [Package] web-mobile@1.0.0 enable
+2022-10-28T06:02:13.573Z - log: [Package] web-mobile@1.0.0 enable
+2022-10-28T06:02:13.605Z - log: [Package] wechatgame@1.0.1 enable
+2022-10-28T06:02:13.608Z - log: [Package] wechatgame@1.0.1 enable
+2022-10-28T06:02:13.630Z - log: [Package] windows@1.0.0 enable
+2022-10-28T06:02:13.632Z - log: [Package] windows@1.0.0 enable
+2022-10-28T06:02:13.656Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-10-28T06:02:13.657Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-10-28T06:02:13.939Z - log: [Package] cocos-service@3.0.3 enable
+2022-10-28T06:02:13.939Z - log: [Package] cocos-service@3.0.3 enable
+2022-10-28T06:02:13.978Z - log: [Package] importer@1.0.0 enable
+2022-10-28T06:02:13.979Z - log: [Package] importer@1.0.0 enable
+2022-10-28T06:02:14.272Z - log: [Im-plugin] Check im-plugin version.
+2022-10-28T06:02:14.272Z - log: [Im-plugin] Check im-plugin version.
+2022-10-28T06:02:14.283Z - log: [Package] im-plugin@3.0.8 enable
+2022-10-28T06:02:14.284Z - log: [Package] im-plugin@3.0.8 enable
+2022-10-28T06:02:18.004Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)  
+at Object.oldDataWarning (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/node.js:381:15)  
+at browserslist (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/index.js:439:7)  
+at resolveTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:168:20)  
+at getTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:213:27)  
+at getLocalTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:227:48)  
+at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:288:15
+2022-10-28T06:02:18.027Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)  
+at Object.oldDataWarning (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/node.js:381:15)  
+at browserslist (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/index.js:439:7)  
+at resolveTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:168:20)  
+at getTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:213:27)  
+at getLocalTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:227:48)  
+at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:288:15
+2022-10-28T06:02:19.675Z - verbose: [Scene] Require engine code (1ms)
+2022-10-28T06:02:19.677Z - verbose: [Scene] Require engine code (3ms)
+2022-10-28T06:02:19.677Z - verbose: [Scene] Startup engine (1ms)
+2022-10-28T06:02:19.678Z - verbose: [Scene] Startup engine (0ms)
+2022-10-28T06:02:19.743Z - log: [Scene] Cocos Creator v3.5.0
+2022-10-28T06:02:19.760Z - log: [Scene] Cocos Creator v3.5.0
+2022-10-28T06:02:19.929Z - log: [Im-plugin] No online info of im-plugin.
+2022-10-28T06:02:20.212Z - verbose: [Scene] Open engine (534ms)
+2022-10-28T06:02:20.213Z - verbose: [Scene] Configure engine (0ms)
+2022-10-28T06:02:19.944Z - info: [Scene] Forward render pipeline initialized.
+2022-10-28T06:02:20.228Z - verbose: [Scene] Open engine (551ms)
+2022-10-28T06:02:20.228Z - verbose: [Scene] Configure engine (0ms)
+2022-10-28T06:02:19.941Z - info: [Scene] Forward render pipeline initialized.
+2022-10-28T06:02:21.352Z - log: [Im-plugin] No online info of im-plugin.
+2022-10-28T06:10:15.975Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-10-28T06:10:15.978Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/1b/1baf0fc9-befa-459c-8bdd-af1a450a0319.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-10-28T06:10:15.982Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/d1/d1346436-ac96-4271-b863-1f4fdead95b0.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+2022-10-28T06:10:15.983Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/60/60f7195c-ec2a-45eb-ba94-8955f60e81d0.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+2022-10-28T06:10:15.989Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/5d/5d45aa00-e064-4938-b314-4265f0c2258c.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-10-28T06:10:15.990Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/ec/ec8106fe-05bf-4e94-943c-e0d3b7bb5e45.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+    at async ImportTask.exec (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:596)
+    at async ParallelQueue._generate (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/asset-db.ccc:1:2655)
+2022-10-28T06:10:15.991Z - error: [Asset DB] /Users/chicmic/Projects/CocosCreator/cardFlip/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json'Error: /Users/chicmic/Projects/CocosCreator/cardFlip/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json: ENOENT: no such file or directory, open '/Users/chicmic/Projects/CocosCreator/cardFlip/library/31/31b152ff-f689-4082-a292-3eb5a0b33014.json'
+    at Object.openSync (fs.js:476:3)
+    at Object.func [as openSync] (electron/js2c/asar_bundle.js:5:1846)
+    at Object.readFileSync (fs.js:377:35)
+    at Object.e.readFileSync (electron/js2c/asar_bundle.js:5:8872)
+    at Object.readFileSync (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/jsonfile/index.js:61:22)
+    at Object.upgradeProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/utils/material-upgrader.ccc:1:1795)
+    at runNextTicks (internal/process/task_queues.js:58:5)
+    at processImmediate (internal/timers.js:434:9)
+    at async MaterialImporter.import (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/importer/importers/material.ccc:1:701)
+    at async ImportTask.importAsset (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/asset-db/libs/task.ccc:1:2311)
+2022-10-28T06:10:18.802Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:18.803Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:18.803Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:18.804Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:18.804Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:18.804Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:18.804Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:18.805Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:18.807Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:18.808Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:18.808Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:18.808Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:21.732Z - warn: Metrics: no valid info
+2022-10-28T06:10:58.456Z - warn: [Window] Load thumbnail failed: db://assets/11C.png
+2022-10-28T06:10:58.457Z - warn: [Window] Load thumbnail failed: db://assets/Card_back.png
+2022-10-28T06:10:58.457Z - warn: [Window] Load thumbnail failed: db://assets/flashcards_background.png
+2022-10-28T06:10:58.536Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:58.537Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:58.537Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:58.537Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:58.538Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:58.538Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:58.538Z - warn: [Scene] Missing class: c027c2X1VlG/prfyl084wU4Error: [Scene] Missing class: c027c2X1VlG/prfyl084wU4
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2218)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:98669:32)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109599:24)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109574:34)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109546:23)
+2022-10-28T06:10:58.538Z - error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0Error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+    at error (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:138790:10)
+    at deserialize (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109724:32)
+    at _Deserializer._deserializeFireClass (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109737:5)
+    at _Deserializer._deserializeInto (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109667:12)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109632:14)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109540:23)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:109755:32)
+2022-10-28T06:10:58.541Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card00" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card00"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:58.542Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card01" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card01"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:58.542Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card10" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card10"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:58.543Z - error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+Error: [Scene] Script "c027c2X1VlG/prfyl084wU4" attached to "card11" is missing or invalid. Detailed information:
+Node path: "Canvas/flashcards_background/card11"
+Script UUID: "c027cd97-d559-46fe-9adf-ca5d3ce30538"
+Class ID: "c027c2X1VlG/prfyl084wU4"
+
+    at report (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1187)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1283)
+    at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1979
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2348)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:812)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2143)
+2022-10-28T06:10:59.567Z - error: ENOENT: no such file or directory, stat '/Users/chicmic/Projects/CocosCreator/cardFlip/temp/programming/packer-driver/targets/preview/chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js'Error: ENOENT: no such file or directory, stat '/Users/chicmic/Projects/CocosCreator/cardFlip/temp/programming/packer-driver/targets/preview/chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js'
+2022-10-28T06:10:59.573Z - error: [Preview]load http://localhost:7457/scripting/x/chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js failed
+2022-10-28T06:10:59.582Z - error: [Preview]Error loading http://localhost:7457/scripting/x/chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js (SystemJS Error#3 https://git.io/JvFET#3)
+2022-10-28T06:10:59.582Z - error: [Preview]Error: Error loading http://localhost:7457/scripting/x/chunks/90/909f786ffe128f06f5aa1b4e1e3fbbd65262915e.js (SystemJS Error#3 https://git.io/JvFET#3)
+    at HTMLScriptElement.<anonymous> (http://localhost:7457/scripting/systemjs/system.js:635:16)
+2022-10-28T06:11:04.588Z - warn: Metrics: no valid info
+2022-10-28T06:11:20.175Z - log: [Package] menu@1.0.0 enable
+2022-10-28T06:11:20.177Z - log: [Package] profile@1.0.0 enable
+2022-10-28T06:11:20.187Z - log: [Package] project@1.0.2 enable
+2022-10-28T06:11:20.192Z - log: [Package] messages@1.0.0 enable
+2022-10-28T06:11:20.195Z - log: [Package] program@1.0.0 enable
+2022-10-28T06:11:20.201Z - log: [Package] tester@1.0.0 enable
+2022-10-28T06:11:20.206Z - log: [Package] preferences@1.0.0 enable
+2022-10-28T06:11:20.833Z - log: Setup mods mgr.: 302.337ms
+2022-10-28T06:11:20.835Z - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,webview)
+2022-10-28T06:11:20.841Z - verbose: [Engine] QuickCompile engine (580ms)
+2022-10-28T06:11:20.843Z - log: [Package] engine@1.0.6 enable
+2022-10-28T06:11:21.550Z - log: [Package] programming@1.0.0 enable
+2022-10-28T06:11:21.833Z - log: [Package] device@1.0.1 enable
+2022-10-28T06:11:21.864Z - log: [Package] ui-kit@1.0.1 enable
+2022-10-28T06:11:21.887Z - log: [Package] engine-extends@1.0.0 enable
+2022-10-28T06:11:21.952Z - log: [Package] asset-db@1.0.0 enable
+2022-10-28T06:11:21.991Z - log: [Package] scene@1.0.0 enable
+2022-10-28T06:11:22.168Z - log: [Package] server@1.0.0 enable
+2022-10-28T06:11:22.169Z - warn: Server: Port 7456 is occupied
+2022-10-28T06:11:22.195Z - log: [Package] utils@1.0.0 enable
+2022-10-28T06:11:26.109Z - log: [Package] preview@1.0.1 enable
+2022-10-28T06:11:26.140Z - log: [Package] animator@1.0.0 enable
+2022-10-28T06:11:26.898Z - log: [Package] builder@1.3.2 enable
+2022-10-28T06:11:26.933Z - log: [Package] shortcuts@1.0.1 enable
+2022-10-28T06:11:26.963Z - log: [Package] animation-graph@1.0.0 enable
+2022-10-28T06:11:26.989Z - log: [Package] runtime-dev-tools@1.0.0 enable
+2022-10-28T06:11:27.010Z - log: [Package] channel-upload-tools@1.0.0 enable
+2022-10-28T06:11:27.040Z - log: [Package] about@1.0.0 enable
+2022-10-28T06:11:27.074Z - log: [Package] assets@1.0.0 enable
+2022-10-28T06:11:27.105Z - log: [Package] console@1.0.0 enable
+2022-10-28T06:11:27.297Z - log: [Package] extension@3.0.16 enable
+2022-10-28T06:11:27.328Z - log: [Package] hierarchy@1.0.0 enable
+2022-10-28T06:11:27.361Z - log: [Package] inspector@1.0.0 enable
+2022-10-28T06:11:27.395Z - log: [Package] lightmap@1.0.4 enable
+2022-10-28T06:11:27.443Z - log: [Package] node-library@1.0.1 enable
+2022-10-28T06:11:27.469Z - log: [Package] package-asset@1.0.0 enable
+2022-10-28T06:11:27.500Z - log: [Package] process@1.0.0 enable
+2022-10-28T06:11:27.534Z - log: [Package] reference-image@1.0.0 enable
+2022-10-28T06:11:27.559Z - log: [Package] alipay-mini-game@1.0.0 enable
+2022-10-28T06:11:27.584Z - log: [Package] android@1.0.0 enable
+2022-10-28T06:11:27.609Z - log: [Package] baidu-mini-game@1.0.0 enable
+2022-10-28T06:11:27.636Z - log: [Package] bytedance-mini-game@1.0.1 enable
+2022-10-28T06:11:27.663Z - log: [Package] cocos-play@1.0.0 enable
+2022-10-28T06:11:27.689Z - log: [Package] huawei-agc@1.0.0 enable
+2022-10-28T06:11:27.718Z - log: [Package] huawei-quick-game@1.0.0 enable
+2022-10-28T06:11:28.082Z - log: [Package] ios@1.0.0 enable
+2022-10-28T06:11:28.085Z - verbose: [AssetDB] Require engine code (1342ms)
+2022-10-28T06:11:28.109Z - log: [Package] ios-app-clip@1.0.0 enable
+2022-10-28T06:11:28.134Z - log: [Package] link-sure@1.0.0 enable
+2022-10-28T06:11:28.162Z - log: [Package] linux@1.0.0 enable
+2022-10-28T06:11:28.190Z - log: [Package] mac@1.0.0 enable
+2022-10-28T06:11:28.314Z - log: [Package] native@1.0.0 enable
+2022-10-28T06:11:28.340Z - log: [Package] ohos@1.0.0 enable
+2022-10-28T06:11:28.366Z - log: [Package] open-harmonyos@1.0.0 enable
+2022-10-28T06:11:28.393Z - log: [Package] oppo-mini-game@1.0.0 enable
+2022-10-28T06:11:28.420Z - log: [Package] qtt@1.0.0 enable
+2022-10-28T06:11:28.448Z - log: [Package] vivo-mini-game@1.0.0 enable
+2022-10-28T06:11:28.487Z - log: [Package] web-desktop@1.0.0 enable
+2022-10-28T06:11:28.522Z - log: [Package] web-mobile@1.0.0 enable
+2022-10-28T06:11:28.560Z - log: [Package] wechatgame@1.0.1 enable
+2022-10-28T06:11:28.587Z - log: [Package] windows@1.0.0 enable
+2022-10-28T06:11:28.614Z - log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-10-28T06:11:28.847Z - log: [Package] cocos-service@3.0.3 enable
+2022-10-28T06:11:28.883Z - log: [Package] importer@1.0.0 enable
+2022-10-28T06:11:29.169Z - log: [Im-plugin] Check im-plugin version.
+2022-10-28T06:11:29.180Z - log: [Package] im-plugin@3.0.8 enable
+2022-10-28T06:11:31.513Z - warn: [Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating[Programming] Browserslist: caniuse-lite is outdated. Please run:
+  npx browserslist@latest --update-db
+  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating  
+at Logger.record (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)  
+at console.warn (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)  
+at Object.oldDataWarning (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/node.js:381:15)  
+at browserslist (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/browserslist/index.js:439:7)  
+at resolveTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:168:20)  
+at getTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/helper-compilation-targets/lib/index.js:213:27)  
+at getLocalTargets (/Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:227:48)  
+at /Applications/CocosCreator/Creator/3.5.0/CocosCreator.app/Contents/Resources/app.asar/node_modules/@cocos/creator-programming-mod-lo/node_modules/@babel/preset-env/lib/index.js:288:15
+2022-10-28T06:11:33.144Z - verbose: [Scene] Require engine code (0ms)
+2022-10-28T06:11:33.145Z - verbose: [Scene] Startup engine (0ms)
+2022-10-28T06:11:33.169Z - log: [Scene] Cocos Creator v3.5.0
+2022-10-28T06:11:33.451Z - verbose: [Scene] Open engine (306ms)
+2022-10-28T06:11:33.451Z - verbose: [Scene] Configure engine (0ms)
+2022-10-28T06:11:33.249Z - info: [Scene] Forward render pipeline initialized.
+2022-10-28T06:11:36.115Z - log: [Im-plugin] No online info of im-plugin.

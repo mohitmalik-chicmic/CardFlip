@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, Label, Sprite, TERRAIN_HEIGHT_BASE, SpriteFrame, tween, Vec3 } from "cc";
+import { _decorator, Component, Node, Label, Sprite, TERRAIN_HEIGHT_BASE, SpriteFrame, tween, Vec3, Layout } from "cc";
 const { ccclass, property } = _decorator;
 
 @ccclass("cardFlip")
@@ -7,19 +7,31 @@ export class cardFlip extends Component {
         type: Label,
     })
     text = null!;
-
+    
     @property({
         type: SpriteFrame,
     })
     faceDown = null!;
     // isFaceDown
+  
+    onLoad(){
+        let par=this.node.getParent();
+       
+        let lay = par.getComponent(Layout);
+        
+       console.log(lay)
+       
+    }
     start() {
+       // console.log(this.node.components);
+         
         let scale = this.node.getScale();
-
+        this.node.getComponent(Sprite).grayscale = true;
         this.text.string = "Hello";
 
         this.node.on(
             Node.EventType.MOUSE_DOWN,(event) => {
+                console.log("target",event.target);
               if (this.faceDown) {
                     tween(this.node)
                         .to(0.5, { scale: new Vec3(0, 1, 1) })

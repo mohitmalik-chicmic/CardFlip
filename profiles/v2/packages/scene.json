@@ -71,8 +71,8 @@
     },
     "9cd6b063-d8cc-4ad9-a2f6-fe2fd406a368": {
       "position": {
-        "x": 231.8688258372843,
-        "y": 331.84300967533045,
+        "x": 480.69075,
+        "y": 408.7439999999993,
         "z": 5000
       },
       "rotation": {
@@ -90,5 +90,18 @@
   },
   "camera-uuids": [
     "9cd6b063-d8cc-4ad9-a2f6-fe2fd406a368"
-  ]
+  ],
+  "float-window": {
+    "position": {
+      "cc": {
+        "Camera": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
+        }
+      }
+    }
+  }
 }

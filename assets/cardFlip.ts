@@ -5,7 +5,10 @@ const { ccclass, property } = _decorator;
 export class cardFlip extends Component {
     @property({
         type: Label,
+
+
     })
+    // @property
     text = null!;
     
     @property({

@@ -13,6 +13,7 @@ export class cardFlip extends Component {
     })
     faceDown = null!;
     // isFaceDown
+    //start method
     start() {
         let scale = this.node.getScale();
 
